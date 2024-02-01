@@ -1,7 +1,8 @@
 ## Table of Contents
 1. [What is Co-Sign?](#introduction)
 2. [Overall Objective of Co-Sign](#objective)
-3. [Assets Credits](#Credits)
+3. [Controls](#controls)
+4. [Assets Credits](#Credits)
 
 ## What is Co-Sign?  <a name="introduction"></a>
 An interactive application consisting of 2 modes for learning of American Sign Language (ASL) alphabets:
@@ -12,7 +13,10 @@ An interactive application consisting of 2 modes for learning of American Sign L
 - Hands-on mode :
   Interactive practice mode designed for two players. Players can practice learnt ASL gesture and its corresponding alphabet representation through this mode.
   In this mode, players are provided real-time detection feedback to determine whether their signed gestures match its corresponding alphabet representation. 
-
+Try it out here:
+1. <https://hert97.github.io/>
+2. <https://co-sign.netlify.app/>
+ 
 ## Overall Objective of Co-Sign  <a name="objective"></a>
 Serve as a platform to:
 - Encourages early interest in the English language
@@ -20,12 +24,16 @@ Serve as a platform to:
 
 Designed in hopes to foster inclusiveness, and mutual understanding amongst young children, regardless of their disability.
 
+## Controls <a name="controls"></a>
+- Up and down arrow keys to select the question to answer.
+- ASL hand gestures that represent alphabets are used to spell and answer the questions.
+ 
 ## Assets Credits <a name="credits"></a>
 
-3D models:
-"Arcade Machine" (https://skfb.ly/6TrDU) by David Aganov is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+3D models:  
+- "Arcade Machine" <https://skfb.ly/6TrDU> by David Aganov is licensed under Creative Commons Attribution <http://creativecommons.org/licenses/by/4.0/>.  
 
-"Hand animation test" (https://skfb.ly/6TDoD) by GabrielNeias is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- "Hand animation test" <https://skfb.ly/6TDoD> by GabrielNeias is licensed under Creative Commons Attribution <http://creativecommons.org/licenses/by/4.0/>.  
 
-Font:
-Little Bird by Benjamin Wyler. https://www.dafont.com/benjamin-wyler.d5093
+Font:  
+- Little Bird by Benjamin Wyler. <https://www.dafont.com/benjamin-wyler.d5093>
