@@ -17,7 +17,7 @@ Try it out here:
 1. <https://hert97.github.io/>
 2. <https://co-sign.netlify.app/>
 
-   ![Co-sign app](https://github.com/Hert97/Hert97.github.io/blob/main/co-sign.jpg)
+> ![Co-sign app](https://github.com/Hert97/Hert97.github.io/blob/main/co-sign.jpg)
 ## Overall Objective of Co-Sign  <a name="objective"></a>
 Serve as a platform to:
 - Encourages early interest in the English language
