@@ -28,6 +28,7 @@ Designed in hopes to foster inclusiveness, and mutual understanding amongst youn
 ## Controls <a name="controls"></a>
 - Up and down arrow keys to select the question to answer.
 - ASL hand gestures that represent alphabets are used to spell and answer the questions.
+- Left mouse click on an alphabet in the gamemode will trigger a picture hint showing the gesture representing that given alphabet
  
 ## Assets Credits <a name="credits"></a>
 
