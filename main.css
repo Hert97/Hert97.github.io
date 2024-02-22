@@ -15,22 +15,9 @@
 	position: absolute;
     cursor: pointer;
     min-width: 3%;
-	z-index: 2;
+	z-index: 1;
 }
-.textBox {
-    width: 130px;
-    box-sizing: border-box;
-    background-color:'#d3d3d3';
-    border: 2px solid #000000;
-    border-radius: 4px;
-    font-size: 12px;
-    padding: 12px 20px 12px 40px;
-    transition: width 0.4s ease-in-out;
-    z-index: 1;
-}
-.textBox::selection {
-    width: 80%;
-}
+
 .imgBtn {
     width: 32px;
     height: 32px;
