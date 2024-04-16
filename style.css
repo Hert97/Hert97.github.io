@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    text-decoration: none;
+    background:transparent;
+    font-family: "Oswald", sans-serif;
+}
+
+
+body {
+    background: rgb(50, 50, 50);
+    background-image: url('assets/bg.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size:cover;
+    object-fit: cover;
+    color: white;
+    overflow: hidden;
+    overflow-y: scroll;
+
+}
